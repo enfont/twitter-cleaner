@@ -1,0 +1,4 @@
+tweepy<4.13
+coverage<6.6
+flake8<5.1
+nose2<0.13

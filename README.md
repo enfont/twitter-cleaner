@@ -19,6 +19,8 @@ pip install -r requirements.txt
 ---
 ## Run the application:
 
+Configure your tokens in config.py and your username, and just run the application
+
 ```
 python3 twitter-cleaner.py
 ```
